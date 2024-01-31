@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\PaymentSystem\PaymentSystems\obj\Debug\net7.0\PaymentSystems.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\PaymentSystem\PaymentSystems\obj\Debug\net7.0\PaymentSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\PaymentSystem\PaymentSystems\obj\Debug\net7.0\PaymentSystems.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\PaymentSystem\PaymentSystems\obj\Debug\net7.0\PaymentSystems.AssemblyInfo.cs
+C:\Users\Acer\source\repos\PaymentSystem\PaymentSystems\obj\Debug\net7.0\PaymentSystems.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\PaymentSystem\PaymentSystems\obj\Debug\net7.0\PaymentSystems.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\source\repos\PaymentSystem\PaymentSystems\obj\Debug\net7.0\PaymentSystems.MvcApplicationPartsAssemblyInfo.cache
